@@ -1,0 +1,84 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "Department": "IT",
+        "Email": "john.doe@example.com",
+        "FirstName": "John",
+        "LastName": "Doe",
+        "Salary": 50000
+      },
+      {
+        "id": 2,
+        "Department": "HR",
+        "Email": "jane.smith@example.com",
+        "FirstName": "Jane",
+        "LastName": "Smith",
+        "Salary": 60000
+      },
+      {
+        "id": 3,
+        "Department": "Finance",
+        "Email": "sam.jones@example.com",
+        "FirstName": "Sam",
+        "LastName": "Jones",
+        "Salary": 75000
+      },
+      {
+        "FirstName": "Test1",
+        "LastName": "test1",
+        "Email": "test1@gmail.com",
+        "Department": "Tech",
+        "Salary": "49998",
+        "id": 4
+      },
+      {
+        "FirstName": "test2",
+        "LastName": "test2",
+        "Email": "test2@gmail.com",
+        "Department": "Marketing",
+        "Salary": "50000",
+        "id": 5
+      },
+      {
+        "FirstName": "test3",
+        "LastName": "test3",
+        "Email": "test3@gmail.com",
+        "Department": "Operations",
+        "Salary": "100000",
+        "id": 6
+      },
+      {
+        "FirstName": "test4",
+        "LastName": "test4",
+        "Email": "test4@gmail.com",
+        "Department": "Tech",
+        "Salary": "25998",
+        "id": 7
+      },
+      {
+        "FirstName": "test5",
+        "LastName": "test5",
+        "Email": "test5@gmail.com",
+        "Department": "Marketing",
+        "Salary": "49000",
+        "id": 8
+      },
+      {
+        "FirstName": "sunny",
+        "LastName": "anand",
+        "Email": "sunny@gmail.com",
+        "Department": "Tech",
+        "Salary": "100000",
+        "id": 9
+      },
+      {
+        "FirstName": "Bhau",
+        "LastName": "Girhe",
+        "Email": "bhau@akola.com",
+        "Department": "Marketing",
+        "Salary": "45000",
+        "id": 10
+      }
+    ]
+  }
